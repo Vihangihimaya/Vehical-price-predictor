@@ -1,0 +1,12 @@
+Flask
+requests
+beautifulsoup4
+openai
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+python-dotenv
+scipy
+firebase-admin
